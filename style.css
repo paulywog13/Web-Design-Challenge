@@ -1,12 +1,7 @@
-.PageHeader{
-    
-    font-size: 30px;
-    font-weight: bold;
-    color: white;
-    padding: 20px;
-    background-color: seagreen;
-
+body{
+    background: lightblue;
 }
+
 
 #Image{
     height: 130px; 
@@ -30,4 +25,10 @@
     margin-top: 40px;
     margin-bottom: 40px;
     background-color: white;
+}
+#center_box{
+    height: 550px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
