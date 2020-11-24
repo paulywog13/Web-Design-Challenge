@@ -4,7 +4,13 @@ body{
 
 /* .body{@media screen and (max-width: 300px) {background: white;} */
 
-
+.navbar-brand{
+    background-color: lightblue;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #fff;
+}
 
 @media screen and (max-width: 600px) {
     .navbar-header{background-color: lightblue;}
