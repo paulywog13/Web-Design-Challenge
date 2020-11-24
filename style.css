@@ -5,8 +5,9 @@ body{
 /* .body{@media screen and (max-width: 300px) {background: white;} */
 
 
+
 @media screen and (max-width: 600px) {
-    .navbar-header.active-nav {background-color: lightblue;}
+    .navbar-header{background-color: lightblue;}
     .body{background: white;}
 }
 #Image{
