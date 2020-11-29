@@ -15,8 +15,9 @@ body{
 }
 
 @media only screen and (max-width: 767px) {
-    .navbar-header{background-color: lightblue;}
-    .body{background: white;}
+    .navbar-brand{background-color: #fff;}
+    body{background: white;}
+    
 }
 
 .container{
