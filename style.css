@@ -7,6 +7,7 @@ body{
 }
 
 .navbar-brand{
+    font-family: calisto;
     background-color: lightblue;
     padding: 10px;
     font-weight: 700;
@@ -59,8 +60,16 @@ body{
     background-color: white;
 }
 #center_box{
+    font-weight: bold;
+    font-family: 'Times';
     height: 550px;
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-bottom: 20px;
+}
+
+.box1 {
+    font-weight: bold;
+    font-family: calisto;
+    background: #fff;
 }
