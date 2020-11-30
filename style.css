@@ -40,8 +40,9 @@ body{
 #Image{
     height: 130px; 
     outline: 0px;
-    padding: 0px;
+    padding: 20px;
     border: 5px;
+    margin: 5px;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
 }
@@ -60,11 +61,26 @@ body{
     margin-bottom: 40px;
     background-color: white;
 }
-#center_box{
+#center_box_left{
     font-weight: bold;
     font-family: 'Times';
     height: 550px;
-    padding: 20px;
+    padding-left:30px;
+    padding-right:75px;
+    padding-bottom: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+#center_box_right{
+    font-weight: bold;
+    font-family: 'Times';
+    height: 550px;
+    padding-left:30px;
+    padding-right:30px;
+    padding-bottom: 30px;
     margin-top: 30px;
     margin-bottom: 20px;
 }
@@ -74,3 +90,4 @@ body{
     font-family: calisto;
     background: #fff;
 }
+
